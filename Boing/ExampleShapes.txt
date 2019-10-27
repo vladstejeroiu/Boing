@@ -1,0 +1,8 @@
+rect 20 20 -5 1 true 50 80 255 255 0 true 0
+rect 120 20 5 -1 false 80 50 255 0 255 true 0
+square 220 20 1 -2 true 50 0 0 0 true 0
+oval 320 20 3 3 false 50 80 80 80 80 true 0
+square 20 120 -1 2 false 50 0 0 0 true 2000
+circle 120 120 5 0 true 70 0 255 0 true 2000
+circle 220 120 0 5 false 80 0 0 255 true 2000
+oval 320 120 -3 -3 true 80 50 100 100 100 true 2000

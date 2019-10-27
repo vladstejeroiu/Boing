@@ -1,0 +1,3 @@
+hexagon 30 120 1 1 true 50 64 224 208 true 1000
+hexagon 100 100 3 3 true 30 64 100 100 true 1000
+hexagon 50 20 -2 -2 true 75 75 10 200 true 1000
